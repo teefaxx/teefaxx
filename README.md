@@ -5,7 +5,7 @@ I like using my computer to figure out stuff. I enjoy learning about new technol
 *  🌍 I'm based in Zürich, Switzerland
 *  👨‍🎓 I'm studying [Geospatial Engineering @ ETH Zürich](https://ethz.ch/de/studium/bachelor/studienangebot/architektur-und-bauwissenschaften/raumbez-ingenieurwissenschaften.html)
 
-<!-- 
+
 ### Skills 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -22,6 +22,6 @@ I like using my computer to figure out stuff. I enjoy learning about new technol
 
 ### Socials
 <p align="left">
-<a href="https://www.github.com/teefaxx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<!-- <a href="https://www.github.com/teefaxx" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> -->
 <a href="https://www.linkedin.com/in/dario-deluca/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
---> 
+
